@@ -1,6 +1,6 @@
 
 
-package Logica;
+package datasystem.Logica;
 
 import java.sql.Connection;
 import java.sql.Date;
